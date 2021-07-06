@@ -127,16 +127,19 @@ h3 {
 .recipies-text {
     text-align: center;
 }
-.recipies-text h1{
+
+.recipies-text h1 {
     color: gray;
 }
+
 .recipies-text p {
     padding: 0px 25%;
     margin-bottom: 5%;
 }
 
 .card-list,
-.count-item,.chefs-item {
+.count-item,
+.chefs-item {
     display: flex;
     justify-content: center;
 }
@@ -177,16 +180,19 @@ h3 {
 .chefs {
     height: 700px;
 }
-.chefs h1{
+
+.chefs h1 {
     text-align: center;
     color: gray;
 }
-.chefs-list{
+
+.chefs-list {
     margin-right: 3%;
     text-align: center;
     border: 2px solid #ff5722;
     padding: 1%;
 }
+
 .count {
     padding-top: 5%;
 
@@ -215,19 +221,23 @@ h3 {
     margin: 0;
     font-size: 3rem;
 }
-.count-one p{
+
+.count-one p {
     margin: 0;
 }
-.chefs-item img{
+
+.chefs-item img {
     height: 300px;
 }
+
 .foot {
     background: rgb(42, 42, 43);
     height: 200px;
     text-align: center;
     padding-top: 1%;
 }
-.foot h3{
+
+.foot h3 {
     text-transform: uppercase;
     color: gray;
 }
