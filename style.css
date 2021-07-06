@@ -127,14 +127,16 @@ h3 {
 .recipies-text {
     text-align: center;
 }
-
+.recipies-text h1{
+    color: gray;
+}
 .recipies-text p {
     padding: 0px 25%;
     margin-bottom: 5%;
 }
 
 .card-list,
-.count-item {
+.count-item,.chefs-item {
     display: flex;
     justify-content: center;
 }
@@ -172,10 +174,20 @@ h3 {
     font-size: 1.25em;
 }
 
-.client {
-    height: 400px;
+.chefs {
+    height: 600px;
 }
-
+.chefs h1{
+    text-align: center;
+    color: gray;
+}
+.chefs-list{
+    margin-right: 3%;
+}
+.chefs4{
+    margin-right: 0;
+    margin-left: 3%;
+}
 .count {
     padding-top: 5%;
 
@@ -206,6 +218,9 @@ h3 {
 }
 .count-one p{
     margin: 0;
+}
+.chefs-item img{
+    height: 300px;
 }
 .foot {
     background: rgb(42, 42, 43);
