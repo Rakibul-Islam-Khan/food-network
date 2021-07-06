@@ -228,6 +228,10 @@ h3 {
     text-align: center;
     padding-top: 1%;
 }
+.foot h3{
+    text-transform: uppercase;
+    color: gray;
+}
 
 .foot p {
     color: white;
