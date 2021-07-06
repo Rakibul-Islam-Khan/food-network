@@ -175,7 +175,7 @@ h3 {
 }
 
 .chefs {
-    height: 600px;
+    height: 700px;
 }
 .chefs h1{
     text-align: center;
@@ -183,10 +183,9 @@ h3 {
 }
 .chefs-list{
     margin-right: 3%;
-}
-.chefs4{
-    margin-right: 0;
-    margin-left: 3%;
+    text-align: center;
+    border: 2px solid #ff5722;
+    padding: 1%;
 }
 .count {
     padding-top: 5%;
